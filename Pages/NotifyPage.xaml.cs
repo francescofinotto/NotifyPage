@@ -14,6 +14,7 @@ namespace TPSoftware.Pages
     {
         public new static readonly BindableProperty Content = BindableProperty.Create("Content", typeof(View), typeof(NotifyPage));
         public static readonly BindableProperty Notify = BindableProperty.Create("Notify", typeof(View), typeof(NotifyPage));
+        public static readonly BindableProperty NotifyStyle = BindableProperty.Create("NotifyStile", typeof(Style), typeof(NotifyPage));
 
         public event Action OnButtonYesClicked;
         public event Action OnButtonNoClicked;
@@ -32,6 +33,12 @@ namespace TPSoftware.Pages
                 stackNotify.Children.RemoveAt(0);
                 stackNotify.Children.Insert(0,value);
                 SetupNotify(value.HeightRequest);
+            }
+        }
+        public Style NotifyViewStyle {
+            set {
+                SetValue(NotifyStyle, value);
+                frameNotify.Style = value;
             }
         }
         public NotifyPage()

@@ -10,7 +10,7 @@
             <ContentView x:Name="framePage" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
 
             </ContentView>
-            <Frame x:Name="frameNotify" AbsoluteLayout.LayoutBounds="0,1,1,0.3" AnchorY="0" AbsoluteLayout.LayoutFlags="All" BackgroundColor="Transparent" Margin="0" Padding="0">
+            <Frame x:Name="frameNotify" AbsoluteLayout.LayoutBounds="0,1,1,0.3" AnchorY="0" AbsoluteLayout.LayoutFlags="All">
                 <StackLayout x:Name="stackNotify" VerticalOptions="Fill" HorizontalOptions="Fill" Margin="0" Padding="0">
                     <Frame/>
                     <FlexLayout x:Name="buttonsSpace" JustifyContent="Center" AlignContent="Stretch" AlignItems="Stretch">
