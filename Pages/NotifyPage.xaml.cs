@@ -68,7 +68,7 @@ namespace TPSoftware.Pages
             //if (isNotifyOpen)
             //    return;
             double delta = frameNotify.Height;
-            await this.frameNotify.TranslateTo(0,0, time);
+            await this.frameNotify.TranslateTo(0, 0, time,Easing.CubicInOut);
             isNotifyOpen = true;
             Console.Write(frameNotify.Y);
         }
@@ -77,7 +77,7 @@ namespace TPSoftware.Pages
             //if (!isNotifyOpen)
             //    return;
             double delta = frameNotify.Height;
-            await this.frameNotify.TranslateTo(0, delta, time);
+            await this.frameNotify.TranslateTo(0, delta, time,Easing.CubicIn);
             isNotifyOpen = false;
         }
 
