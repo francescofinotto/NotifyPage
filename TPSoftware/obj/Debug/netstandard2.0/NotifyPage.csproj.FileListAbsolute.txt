@@ -1,0 +1,9 @@
+D:\TPSoftware\NotifyPage\TPSoftware\bin\Debug\netstandard2.0\NotifyPage.deps.json
+D:\TPSoftware\NotifyPage\TPSoftware\bin\Debug\netstandard2.0\NotifyPage.dll
+D:\TPSoftware\NotifyPage\TPSoftware\bin\Debug\netstandard2.0\NotifyPage.pdb
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\NotifyPage.xaml.g.cs
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\NotifyPage.AssemblyInfoInputs.cache
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\NotifyPage.AssemblyInfo.cs
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\NotifyPage.dll
+D:\TPSoftware\NotifyPage\TPSoftware\obj\Debug\netstandard2.0\NotifyPage.pdb
