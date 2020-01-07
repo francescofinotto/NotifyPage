@@ -1,0 +1,10 @@
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\bin\Debug\netstandard2.0\TPSoftware.deps.json
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\bin\Debug\netstandard2.0\TPSoftware.dll
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\bin\Debug\netstandard2.0\TPSoftware.pdb
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\Pages\NotifyPage.xaml.g.cs
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\TPSoftware.AssemblyInfoInputs.cache
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\TPSoftware.AssemblyInfo.cs
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\TPSoftware.dll
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\TPSoftware.pdb
+D:\TPSoftware\DnDCharacter\DnDCharacter\TPSoftware\obj\Debug\netstandard2.0\TPSoftware.csprojAssemblyReference.cache

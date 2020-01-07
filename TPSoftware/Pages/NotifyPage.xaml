@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TPSoftware.Pages.NotifyPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <ContentView x:Name="framePage" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+
+            </ContentView>
+            <Frame x:Name="frameNotify" AbsoluteLayout.LayoutBounds="0,1,1,0.3" AnchorY="0" AbsoluteLayout.LayoutFlags="All" BackgroundColor="Transparent" Margin="0" Padding="0">
+                <StackLayout x:Name="stackNotify" VerticalOptions="Fill" HorizontalOptions="Fill" Margin="0" Padding="0">
+                    <Frame/>
+                    <FlexLayout x:Name="buttonsSpace" JustifyContent="Center" AlignContent="Stretch" AlignItems="Stretch">
+                        <Button x:Name="buttonNo" Text="No" Clicked="ButtonNoClicked"/>
+                        <Button x:Name="buttonYes" Text="Yes" Clicked="ButtonYesClicked"/>
+                    </FlexLayout>
+                </StackLayout>
+            </Frame>
+        </AbsoluteLayout>
+
+    </ContentPage.Content>
+</ContentPage>
